@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-##DESCRIPTION:In this project, I developed an image classification model using deep learning techniques implemented with Python and TensorFlow. The primary objective was to create a convolutional neural network (CNN) capable of accurately classifying images into ten categories from the widely used CIFAR-10 dataset. This project demonstrates the complete workflow of designing, training, evaluating, and visualizing the performance of a neural network for supervised learning tasks.
+## DESCRIPTION:In this project, I developed an image classification model using deep learning techniques implemented with Python and TensorFlow. The primary objective was to create a convolutional neural network (CNN) capable of accurately classifying images into ten categories from the widely used CIFAR-10 dataset. This project demonstrates the complete workflow of designing, training, evaluating, and visualizing the performance of a neural network for supervised learning tasks.
 
 The project began by loading the CIFAR-10 dataset, which is conveniently included in TensorFlow’s datasets module. This dataset consists of 60,000 32×32 color images evenly distributed across ten different classes, such as airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks. The dataset is split into 50,000 training examples and 10,000 test examples. Each image is represented as a three-dimensional array corresponding to its height, width, and color channels.
 
