@@ -30,3 +30,6 @@ In addition to numerical metrics, visualizations were created to inspect the mod
 
 All development work was carried out in the PyCharm IDE, leveraging Python 3.10 and TensorFlow 2.x. This project illustrates a complete, reproducible deep learning workflow, from data loading and augmentation to model building, training, evaluation, and visualization.
 
+### OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/3cd635ed-2660-47db-9f37-cef46f0fb63b)
